@@ -1,5 +1,5 @@
 import './App.css';
-import DataTable from './DataTable.js'; 
+import DataListing from './DataListing'; 
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div >
       
     <h1>Home</h1>
-    <DataTable/>
+    <DataListing/>
   </div>
   );
 }
